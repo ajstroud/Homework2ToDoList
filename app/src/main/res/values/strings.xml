@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework2ToDoList</string>
+    <string name="swipe_to_remove">Long-click to remove an item from the list.</string>
+    <string name="to_do_list">TO-DO LIST</string>
+    <string name="enter_to_do">enter a to-do</string>
+    <string name="add">Add</string>
+</resources>
